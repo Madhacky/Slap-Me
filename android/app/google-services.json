@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "954014770709",
+    "project_id": "slap-me-d709f",
+    "storage_bucket": "slap-me-d709f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954014770709:android:dc9a3fbb3d835b20bd101c",
+        "android_client_info": {
+          "package_name": "com.example.slap_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954014770709-opnv1sqlu48unsrdp6bvs7i1rjnfqo7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.slap_me",
+            "certificate_hash": "3ddc5538a4ec98659d9edb35cddce185a3bf1736"
+          }
+        },
+        {
+          "client_id": "954014770709-mq1klu7kasl0cdtoqpse1hp8h9501qaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhXrMypDJbook3q576I1vL2ibTbzScTg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954014770709-mq1klu7kasl0cdtoqpse1hp8h9501qaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
